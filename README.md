@@ -12,8 +12,11 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat&logo=OpenCV&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)
 
+
 ## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=kushagra24bai10536-rgb&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=kushagra24bai10536-rgb&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kushagra24bai10536-rgb&layout=compact&theme=tokyonight)
 
 ## 🏆 Certifications & Experience
 - 🤖 Machine Learning Specialization — Coursera (Andrew Ng)
